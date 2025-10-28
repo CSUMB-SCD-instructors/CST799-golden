@@ -1,7 +1,5 @@
-# [COURSE_CODE] ([COURSE_NAME]) Syllabus
+# CST799 (Underwater AI Basketweaving) Syllabus
 
-Note: All syllabi should conform to the defined syllabus structure.
-For CSUMB that is under section 3.10 of [this document](https://csumb.edu/policy/course-syllabus-policy/).
 
 ## Summary
 
