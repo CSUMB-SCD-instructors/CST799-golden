@@ -1,6 +1,5 @@
 # CST799 (Underwater AI Basketweaving) Syllabus
 
-
 ## Summary
 
 [Brief description of the course goals and what students will learn]
